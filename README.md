@@ -1,0 +1,1 @@
+KuROServer is a software development project that revolves around a massively multiplayer online role-playing game (MMORPG) server. It derives from the rAthena project, so no comments have been deleted where the respective credits are given to each contributor.
